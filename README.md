@@ -26,3 +26,5 @@ Melanjutkan kode program yang sudah disediakan di modul
 
 
 https://github.com/azzahraalika/TP4DPBO2023C2/assets/101117829/9effb61a-1921-4e7d-8f30-bfe7e25ad889
+
+#### PS : pada saat edit member harus selalu pilih jabatan kalo engga error
